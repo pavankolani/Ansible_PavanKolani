@@ -1,1 +1,1 @@
-# Writing an Ansible Playbook for installing and starting the nginx 
+# Writing an Ansible Playbook for installing and starting the nginx
