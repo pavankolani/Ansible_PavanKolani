@@ -1,3 +1,4 @@
+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
 ---
 - name: Install & start nginx
   hosts: all
